@@ -1,7 +1,6 @@
 ## 한국인터넷진흥원 핀테크 아카데미 코드
 핀테크 아카데미 교육 내용과 관련된 코드입니다. <br>
 <br>
-<br>
 
 ## 1. fintech1
 - Banking-System Page including sending and withdrawal <br>
