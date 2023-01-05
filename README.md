@@ -5,6 +5,8 @@
 ## 1. fintech1
 - Banking-System Page including sending and withdrawal <br>
 - 금융위 API를 이용한 송금, 인출 등 API 실습
+- O Auth 방식 인증처리를 통해 엑세스 토큰으로 사용자 인증
+- React.js
 
 ## 2. fintech2
   1) Scraping Practices <br>
